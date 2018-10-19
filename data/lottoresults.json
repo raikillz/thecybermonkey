@@ -1,5 +1,15 @@
 {"results":[
   {"date":20181018,
-   "gameResults":[{"type":"642","result":["01","02","03","04","05","06"]}]
+   "gameResults":[
+	{"type":"Superlotto 6/49","result":["48","07","02","24","08","30"],"jackpot":21383593.00,"winners":0},
+	{"type":"6Digit","result":["6","0","7","1","2","0"],"jackpot":1074652.50,"winners":0},
+	{"type":"Suertres Lotto 11AM","result":["9","3","2"],"jackpot":4500.00,"winners":377},
+	{"type":"Suertres Lotto 4PM","result":["2","1","1"],"jackpot":4500.00,"winners":709},
+	{"type":"Suertres Lotto 9PM","result":["7","9","5"],"jackpot":4500.00,"winners":217},
+	{"type":"EZ2 Lotto 9PM","result":["24","03"],"jackpot":4000.00,"winners":163},
+	{"type":"Lotto 6/42","result":["39","18","08","16","17","01"],"jackpot":7576391.00,"winners":0},
+	{"type":"EZ2 Lotto 11AM","result":["23","14"],"jackpot":4000.00,"winners":129},
+	{"type":"EZ2 Lotto 4PM","result":["16","14"],"jackpot":4000.00,"winners":114}
+   ]
   }
 ]}
