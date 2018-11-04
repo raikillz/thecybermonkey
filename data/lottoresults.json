@@ -10,7 +10,9 @@
      "23",
      "40",
      "11"
-    ]
+    ],
+    "jackpot": "40390187.00",
+    "winners": "0"
    },
    {
     "type": "6Digit",
@@ -21,7 +23,9 @@
      "7",
      "2",
      "2"
-    ]
+    ],
+    "jackpot": "1754285.92",
+    "winners": "0"
    },
    {
     "type": "Suertres Lotto 11AM",
@@ -29,7 +33,9 @@
      "5",
      "4",
      "4"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "236"
    },
    {
     "type": "Suertres Lotto 4PM",
@@ -37,7 +43,9 @@
      "9",
      "9",
      "2"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "184"
    },
    {
     "type": "Suertres Lotto 9PM",
@@ -45,14 +53,18 @@
      "3",
      "3",
      "5"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "370"
    },
    {
     "type": "EZ2 Lotto 9PM",
     "result": [
      "09",
      "14"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "430"
    },
    {
     "type": "Lotto 6/42",
@@ -63,21 +75,27 @@
      "30",
      "16",
      "10"
-    ]
+    ],
+    "jackpot": "25469275.00",
+    "winners": "0"
    },
    {
     "type": "EZ2 Lotto 11AM",
     "result": [
      "04",
      "30"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "119"
    },
    {
     "type": "EZ2 Lotto 4PM",
     "result": [
      "06",
      "06"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "284"
    }
   ],
   "20181102": [
@@ -90,7 +108,9 @@
      "27",
      "35",
      "20"
-    ]
+    ],
+    "jackpot": "32287508.00",
+    "winners": "0"
    },
    {
     "type": "4Digit",
@@ -99,7 +119,9 @@
      "0",
      "5",
      "6"
-    ]
+    ],
+    "jackpot": "35914.00",
+    "winners": "17"
    },
    {
     "type": "Suertres Lotto 11AM",
@@ -107,7 +129,9 @@
      "5",
      "0",
      "1"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "413"
    },
    {
     "type": "Suertres Lotto 4PM",
@@ -115,7 +139,9 @@
      "4",
      "5",
      "5"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "349"
    },
    {
     "type": "Suertres Lotto 9PM",
@@ -123,28 +149,36 @@
      "0",
      "5",
      "0"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "811"
    },
    {
     "type": "EZ2 Lotto 9PM",
     "result": [
      "29",
      "15"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "158"
    },
    {
     "type": "EZ2 Lotto 11AM",
     "result": [
      "23",
      "05"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "163"
    },
    {
     "type": "EZ2 Lotto 4PM",
     "result": [
      "25",
      "21"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "68"
    },
    {
     "type": "Ultra Lotto 6/58",
@@ -155,7 +189,9 @@
      "25",
      "44",
      "16"
-    ]
+    ],
+    "jackpot": "49500000.00",
+    "winners": "0"
    }
   ],
   "20181103": [
@@ -168,7 +204,9 @@
      "8",
      "9",
      "7"
-    ]
+    ],
+    "jackpot": "1952097.52",
+    "winners": "0"
    },
    {
     "type": "Suertres Lotto 11AM",
@@ -176,7 +214,9 @@
      "8",
      "1",
      "7"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "305"
    },
    {
     "type": "Suertres Lotto 4PM",
@@ -184,7 +224,9 @@
      "4",
      "1",
      "0"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "325"
    },
    {
     "type": "Suertres Lotto 9PM",
@@ -192,14 +234,18 @@
      "9",
      "5",
      "3"
-    ]
+    ],
+    "jackpot": "4500.00",
+    "winners": "282"
    },
    {
     "type": "EZ2 Lotto 9PM",
     "result": [
      "23",
      "05"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "141"
    },
    {
     "type": "Lotto 6/42",
@@ -210,21 +256,27 @@
      "07",
      "29",
      "25"
-    ]
+    ],
+    "jackpot": "28706100.00",
+    "winners": "0"
    },
    {
     "type": "EZ2 Lotto 11AM",
     "result": [
      "21",
      "13"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "58"
    },
    {
     "type": "EZ2 Lotto 4PM",
     "result": [
      "03",
      "09"
-    ]
+    ],
+    "jackpot": "4000.00",
+    "winners": "225"
    },
    {
     "type": "Grand Lotto 6/55",
@@ -235,7 +287,9 @@
      "44",
      "20",
      "18"
-    ]
+    ],
+    "jackpot": "67408918.00",
+    "winners": "0"
    }
   ]
  }
