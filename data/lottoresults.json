@@ -376,6 +376,102 @@
     "jackpot": "4000.00",
     "winners": "193"
    }
+  ],
+  "20181105": [
+   {
+    "type": "Grand Lotto 6/55",
+    "result": [
+     "33",
+     "30",
+     "41",
+     "28",
+     "38",
+     "19"
+    ],
+    "jackpot": "70764987.00",
+    "winners": "0"
+   },
+   {
+    "type": "Megalotto 6/45",
+    "result": [
+     "02",
+     "38",
+     "26",
+     "41",
+     "01",
+     "31"
+    ],
+    "jackpot": "35549150.00",
+    "winners": "0"
+   },
+   {
+    "type": "4Digit",
+    "result": [
+     "5",
+     "3",
+     "5",
+     "1"
+    ],
+    "jackpot": "35524.00",
+    "winners": "22"
+   },
+   {
+    "type": "Suertres Lotto 11AM",
+    "result": [
+     "0",
+     "7",
+     "9"
+    ],
+    "jackpot": "4500.00",
+    "winners": "150"
+   },
+   {
+    "type": "Suertres Lotto 4PM",
+    "result": [
+     "1",
+     "5",
+     "6"
+    ],
+    "jackpot": "4500.00",
+    "winners": "445"
+   },
+   {
+    "type": "Suertres Lotto 9PM",
+    "result": [
+     "7",
+     "2",
+     "5"
+    ],
+    "jackpot": "4500.00",
+    "winners": "534"
+   },
+   {
+    "type": "EZ2 Lotto 9PM",
+    "result": [
+     "24",
+     "13"
+    ],
+    "jackpot": "4000.00",
+    "winners": "92"
+   },
+   {
+    "type": "EZ2 Lotto 11AM",
+    "result": [
+     "25",
+     "18"
+    ],
+    "jackpot": "4000.00",
+    "winners": "97"
+   },
+   {
+    "type": "EZ2 Lotto 4PM",
+    "result": [
+     "08",
+     "20"
+    ],
+    "jackpot": "4000.00",
+    "winners": "233"
+   }
   ]
  }
 }
